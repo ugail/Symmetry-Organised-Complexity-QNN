@@ -1,0 +1,5 @@
+# Minimal dependencies for verify_results.py. Reads the precomputed CSV tables
+# in Results/ and confirms the headline numbers reported in the manuscript.
+
+numpy>=1.26,<3
+pandas>=2.0,<3
