@@ -1,0 +1,60 @@
+{
+  "manuscript": "Symmetry-Organised Complexity in Quantum Neural Networks (MDPI Symmetry, Revision 1)",
+  "generated_at": "2026-05-19T10:31:12+00:00",
+  "environment": "Google Colab",
+  "python": "3.12.13",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+  "package_versions": {
+    "numpy": "2.0.2",
+    "scipy": "1.16.3",
+    "pandas": "2.2.2",
+    "matplotlib": "3.10.0"
+  },
+  "configuration": {
+    "w_H": 0.4,
+    "w_D": 0.35,
+    "w_M": 0.25,
+    "gamma": 3.0,
+    "n_qubits": 4,
+    "T_toy": 80,
+    "u1_break_strength": 3.5,
+    "n_train": 60,
+    "n_test": 40,
+    "epochs": 65,
+    "lr": 0.045,
+    "init_sigma": 0.1,
+    "spsa_c": 0.055,
+    "n_seeds": 5,
+    "logit_scale": 3.5,
+    "gamma_sweep": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      8,
+      10
+    ],
+    "simplex_step": 0.05,
+    "eps": 1e-12,
+    "dataset_seed": 2026
+  },
+  "output_directory": "/content/drive/MyDrive/Colab Notebooks/TEMP/Quantum Neural Networks/MDPI Symmetry/Revision 1/Results",
+  "figures": [
+    "figure1_u1_sector_trajectories.png",
+    "figure2_su2_sector_trajectories.png",
+    "figure3_component_values.png",
+    "figure4_psi_summary.png",
+    "figure5_trained_task_accuracy.png",
+    "figure6_trained_task_diagnostics.png",
+    "figure7_trained_task_gradient_norms.png",
+    "figure8_weight_gamma_sensitivity.png"
+  ],
+  "tables": [
+    "toy_examples_summary.csv",
+    "trained_task_per_seed.csv",
+    "trained_task_summary.csv",
+    "sensitivity_summary.csv"
+  ]
+}

@@ -1,0 +1,7 @@
+Symmetry,Model,H_G,D_G,M_G,C_G,Delta_G,Psi_G_raw,Psi_G
+U(1),collapsed,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+U(1),symmetry-organised,0.648,0.205,0.276,1.0,0.0,0.4,0.4
+U(1),symmetry-breaking,0.898,0.32,0.09,0.732,0.104,0.494,0.361
+SU(2),collapsed,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+SU(2),symmetry-organised,0.269,0.208,0.117,1.0,0.0,0.209,0.209
+SU(2),symmetry-breaking,0.201,0.163,0.125,0.859,0.051,0.169,0.145
