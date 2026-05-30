@@ -1,6 +1,6 @@
 # Symmetry-Organised Complexity in Quantum Neural Networks
 
-This repository accompanies the paper, H. Ugail and N. Howard, *Symmetry-Organised Complexity in Quantum Neural Networks*,  Symmetry, 2026. To appear.
+This repository accompanies the paper, Ugail, H., & Howard, N. (2026). Symmetry-Organised Complexity in Quantum Neural Networks. Symmetry, 18(6), 912. https://doi.org/10.3390/sym18060912
 
 
 Quantum neural networks (QNNs) are often evaluated by raw Hilbert-space expressivity, but a model that explores a large state space without respect for the symmetry of the learning problem can be both hard to train and slow to generalise. **Symmetry-organised complexity** is a representation-theoretic trajectory diagnostic that measures how a QNN distributes its expressive capacity across the multiplicity structure of a target symmetry, rather than how much of Hilbert space it visits. The diagnostic combines sector occupation, cross-irreducible-representation organisation, and symmetry metastability into a single composite index, multiplied by an ansatz-level compliance factor that penalises symmetry violation.
@@ -71,7 +71,7 @@ The configuration cell at the top of the notebook records every hyperparameter u
 
 If you use the symmetry-organised complexity index, the code in this repository, or the precomputed result tables, please cite:
 
-> H. Ugail and N. Howard, *Symmetry-Organised Complexity in Quantum Neural Networks*, Symmetry, 2026. To appear.
+> Ugail, H., & Howard, N. (2026). Symmetry-Organised Complexity in Quantum Neural Networks. Symmetry, 18(6), 912. https://doi.org/10.3390/sym18060912
 
 ## License
 
